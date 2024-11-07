@@ -2,12 +2,16 @@
   "expo": {
     "name": "KlinkarTODO",
     "slug": "KlinkarTODO",
+    "description": "Приложение-тудушка в качестве тестового задания Клинкар",
     "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "githubUrl": "https://github.com/Illbeblack/KlinkarTODO",
     "orientation": "portrait",
     "icon": "./assets/images/icons/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "backgroundColor": "#DCDCDC",
+    "primaryColor": "#6C38CC",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
